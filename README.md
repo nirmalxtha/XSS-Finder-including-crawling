@@ -1,2 +1,2 @@
 # XSS-Finder-including-crawling
-XSS Finder with crawler
+XSSScanner is a Python-based automated web vulnerability scanner that detects Cross-Site Scripting (XSS) and HTML Injection issues in web applications. Using Playwright for real browser automation, it crawls a target website, discovers all input points URL parameters and forms and injects user-supplied payloads to identify exploitable vulnerabilities with high accuracy.
